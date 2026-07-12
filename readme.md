@@ -8,7 +8,13 @@
 <p align="center">
   <img src="Screenshots/dashboard.png" alt="Restaurant Live Analytics Dashboard" width="100%">
 </p>
+
+## 💡 Business Insights Dashboard
+
+<p align="center">
+  <img src="Screenshots/business_insights.png" alt="Business Insights Dashboard" width="100%">
 </p>
+
 
 ---
 
