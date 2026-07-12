@@ -12,7 +12,7 @@
 ## 💡 Business Insights Dashboard
 
 <p align="center">
-  <img src="Screenshots/business_insights.png" alt="Business Insights Dashboard" width="100%">
+  <img src="Screenshots/business insights.png" alt="Business Insights Dashboard" width="100%">
 </p>
 
 
