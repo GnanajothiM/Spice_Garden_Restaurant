@@ -7,7 +7,7 @@
 #  Dashboard Preview
 
 <p align="center">
-  <img src="dashboard.png" alt="Restaurant Live Analytics Dashboard" width="100%">
+  <img src="screenshots\dashboard.png" alt="Restaurant Live Analytics Dashboard" width="100%">
 </p>
 
 ---
